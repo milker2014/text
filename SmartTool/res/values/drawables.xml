@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="window_bg">@color/window_bg</drawable>
+    <drawable name="divider_line">@color/dividerline</drawable>
+    <drawable name="gray_bg">@color/gray</drawable>
+    <drawable name="rb_normal_bg">@color/white</drawable>
+    <drawable name="auto_search">@color/autosearch</drawable>
+    <drawable name="pop_window_bg">@color/popbackground</drawable>
+    <drawable name="tel_bottom">@color/green_tel</drawable>
+</resources>
